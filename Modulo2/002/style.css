@@ -1,0 +1,25 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(fun2.jpg) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-width: 100vh;
+}
+
+.container{
+  max-width: 1400px;
+  padding: 15%; 
+}
+
+footer{
+    width: 100%;
+    min-width: 2px;
+    left: 50%;
+    background: beige;
+    display: flex;
+}
